@@ -2,6 +2,6 @@
 
 project contribution:
 
-Front-end, database connection:Imtiyaz
+Front-end,sql queries and functions ,  database connection:Imtiyaz
 
 Back-end: Kulasekhar
